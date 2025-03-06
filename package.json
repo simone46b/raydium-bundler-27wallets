@@ -1,12 +1,12 @@
 {
 	"name": "Solana-Bundler",
 	"version": "1.0.0",
-	"description": "https://t.me/benorizz0",
+	"description": "https://t.me/simone46b",
 	"main": "index.js",
 	"scripts": {
 		"start": "ts-node jitoPool.ts"
 	},
-	"author": "https://t.me/benorizz0/",
+	"author": "simon",
 	"license": "ISC",
 	"dependencies": {
 		"@coral-xyz/anchor": "^0.29.0",
