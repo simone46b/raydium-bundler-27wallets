@@ -1,10 +1,12 @@
-# Solana Bundler
+# Raydium Bundler
 
-Welcome to the Solana Bundler, an open-source script designed to facilitate buying and selling with 27 wallets simultaneously on the Solana blockchain. This powerful tool is perfect for users looking to manage multiple transactions efficiently and effectively.
+Raydium Bundler can buy and sell with 27 wallets simultaneously on the Solana blockchain. This powerful tool is perfect for users looking to manage multiple transactions efficiently and effectively.
 
-NOTE: This is an older-version of my Bundler, if you got any questions, **DM me at t.me/benorizz0**
+NOTE: This is an older-version of my Bundler, if you got any questions, contact me
 
+## Contact
 
+[Telegram](https://t.me/shiny0103)  [Twitter](https://x.com/0xTan1319)
 
 https://github.com/user-attachments/assets/8d89238b-7e08-433b-86a6-7069ded8be7e
 
@@ -62,14 +64,3 @@ Removing LP is straightforward:
 - **Secure Keypairs:** Keep your keypairs secure and ensure they are correctly configured in the `.env` file.
 - **Spam Wisely:** When spamming functions, monitor the transactions to avoid unnecessary SOL expenditure.
 
-## Additional Resources
-
-For more detailed instructions and updates, visit our Discord at https://discord.gg/solana-scripts . Here you will find comprehensive documentation and community support for any issues you encounter.
-
-### Conclusion
-
-The Solana Raydium Bundler is a robust tool for managing multiple transactions on the Solana blockchain. By following the setup and script functions outlined above, you can efficiently handle buying and selling operations with ease. Join our community on Discord and take advantage of this powerful open-source solution.
-
-Optimize your Solana transactions today with the Solana Raydium Bundler!
-
-For more information, join our discord at [Discord](https://discord.gg/solana-scripts)
