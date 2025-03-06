@@ -11,8 +11,6 @@ async function main() {
 	let running = true;
 
 	while (running) {
-		console.log("DM me for support");
-		console.log("https://t.me/benorizz0");
 		console.log("\nMenu:");
 		console.log("1. Create Keypairs");
 		console.log("2. Pre Launch Checklist");
